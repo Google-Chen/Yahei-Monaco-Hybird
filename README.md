@@ -22,13 +22,13 @@ https://github.com/Mr-Azu/Picture
 
 可以将浏览器的字体设置为苹方字体 ，非常清晰美观，大小视个人具体情况，不宜过小
 
-![](C:\Users\26018\Desktop\PingFang of Breave.png)
+https://github.com/Mr-Azu/Picture/blob/main/PingFang%20of%20Breave.png
 
 
 
 在IDE中 可以将其设置为环境字体  真的要比雅黑来的清晰
 
-![苹方](C:\Users\26018\Desktop\苹方.png)
+https://github.com/Mr-Azu/Picture/blob/main/%E8%8B%B9%E6%96%B9.png
 
 
 
@@ -36,7 +36,7 @@ https://github.com/Mr-Azu/Picture
 
 这是一种编程字体  非常美观！中英文字体粗细一致，没有割裂感
 
-![](C:\Users\26018\Desktop\YaHei-Monaco-Hybird.png)
+https://github.com/Mr-Azu/Picture/blob/main/YaHei-Monaco-Hybird.png
 
 
 
@@ -50,7 +50,7 @@ https://github.com/Mr-Azu/Picture
 
 当然也可以作为编程字体使用，也是非常养眼的！
 
-![](C:\Users\26018\Desktop\Mononoki NF.png)
+https://github.com/Mr-Azu/Picture/blob/main/Mononoki%20NF.png
 
 ### 扩展知识
 
